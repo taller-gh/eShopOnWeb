@@ -86,7 +86,7 @@ public class CatalogContextSeed
             {
                 new(2,2, ".NET Bot Black Sweatshirt", ".NET Bot Black Sweatshirt", 19.5M,  "http://catalogbaseurltobereplaced/images/products/1.png"),
                 new(1,2, ".NET Black & White Mug", ".NET Black & White Mug", 8.50M, "http://catalogbaseurltobereplaced/images/products/2.png"),
-                new(2,5, "GitHub White T-Shirt", "Prism White T-Shirt", 12,  "http://catalogbaseurltobereplaced/images/products/3.png"),
+                new(2,5, "GitHub White T-Shirt", "GitHub White T-Shirt", 12,  "http://catalogbaseurltobereplaced/images/products/3.png"),
                 new(2,2, ".NET Foundation Sweatshirt", ".NET Foundation Sweatshirt", 12, "http://catalogbaseurltobereplaced/images/products/4.png"),
                 new(3,5, "GitHub Red Sheet", "GitHub Red Sheet", 8GitHub5M, "http://catalogbaseurltobereplaced/images/products/5.png"),
                 new(2,2, ".NET Blue Sweatshirt", ".NET Blue Sweatshirt", 12, "http://catalogbaseurltobereplaced/images/products/6.png"),
