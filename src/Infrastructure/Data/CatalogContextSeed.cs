@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
@@ -95,7 +95,8 @@ public class CatalogContextSeed
                 new(1,5, "Cup<T> White Mug", "Cup<T> White Mug", 12, "http://catalogbaseurltobereplaced/images/products/9.png"),
                 new(3,2, ".NET Foundation Sheet", ".NET Foundation Sheet", 12, "http://catalogbaseurltobereplaced/images/products/10.png"),
                 new(3,2, "Cup<T> Sheet", "Cup<T> Sheet", 8.5M, "http://catalogbaseurltobereplaced/images/products/11.png"),
-                new(2,5, "GitHub White TShirt", "GitHub White TShirt", 12, "http://catalogbaseurltobereplaced/images/products/12.png")
+                new(2,5, "GitHub White TShirt", "GitHub White TShirt", 12, "http://catalogbaseurltobereplaced/images/products/12.png"),
+                new(2,5, "GitHub Gray TShirt", "GitHub Gray TShirt", 10, "http://catalogbaseurltobereplaced/images/products/13.png"),
             };
     }
 }
